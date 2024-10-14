@@ -1,4 +1,4 @@
 {
-    "labels": ["2021", "2022", "2023", "2024"],
-    "data": [5500, 8700, 10000, 1000000]
+    "labels": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+    "data": [10, 20, 25, 30]
 }
