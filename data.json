@@ -1,4 +1,4 @@
 {
-    "labels": ["Monday", "Tuesday", "Wednesday", "Thursday"],
-    "data": [10, 20, 25, 30]
+    "labels": ["Strawberry", "Manggo", "Ube", "Chocolate"],
+    "data": [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
 }
